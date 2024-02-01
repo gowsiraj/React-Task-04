@@ -1,0 +1,23 @@
+.cardstyle{
+  box-shadow: 0px 10px 10px rgb(134, 132, 147);
+  transition: 0.5s;
+}
+.cardstyle:hover {
+  transform: translateY(-7px);
+  box-shadow: 0px 10px 10px rgb(70, 70, 70);
+}
+
+.linkstyle::before {
+  margin-left: auto;
+}
+.linkstyle::after, .linkstyle::before {
+  content: '';
+  width: 0%;
+  height: 2px;
+  background: #5edc8c;
+  display: block;
+  transition: 0.5s;
+}
+.linkstyle:hover::after, .linkstyle:hover::before {
+  width: 100%;
+}
