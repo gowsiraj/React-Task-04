@@ -1,3 +1,21 @@
+# React Router Task
+# Front-End=> HTML,CSS,Bootstrap and React.JS
+# Task Description:
+<p>The objective of this task is to create a web page with routes using react-router-dom.</p>
+
+<img src=""/>
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
