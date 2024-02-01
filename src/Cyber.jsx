@@ -2,21 +2,21 @@ import Card from "./Card"
 
 function Cyber() {
   const cyberList=[{
-    img:"https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1.png",
-    title:"8 Different Types of Cybersecurity and Threats Involved",
-    detail:"In the rapidly evolving field of cybersecurity, there is a common misconception that coding skills",
+    img:"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
+    title:"What Is Hacking? Types of Hacking & More    ",
+    detail:"Have you ever wondered what hacking is all about? It’s a big deal in today’s",
     date:"18 July 2024",
     command:"No Comments"
   },
   {
-    img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
-    title:"Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
-    detail:"Cybersecurity refers to the protection of devices, processes",
+    img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
+    title:"Non-Coding Jobs in Cybersecurity: A Comprehensive Guide    ",
+    detail:"In the rapidly evolving field of cybersecurity, there is a common misconception that coding skills    ",
     date:"18 July 2024",
     command:"No Comments"
   },
   {
-    img:"https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp",
+    img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
     title:"The Ultimate Cybersecurity Roadmap for Beginners",
     detail:"There is something fascinating about a lone hacker in black hoodies using a single system",
     date:"18 August 2024",
