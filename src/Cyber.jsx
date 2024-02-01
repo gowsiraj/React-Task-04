@@ -14,14 +14,7 @@ function Cyber() {
     detail:"In the rapidly evolving field of cybersecurity, there is a common misconception that coding skills    ",
     date:"18 July 2024",
     command:"No Comments"
-  },
-  {
-    img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
-    title:"The Ultimate Cybersecurity Roadmap for Beginners",
-    detail:"There is something fascinating about a lone hacker in black hoodies using a single system",
-    date:"18 August 2024",
-    command:"No Comments"
-  }]
+  },]
   return (
     <div className="container text-center mt-5">
   <div className="row">
