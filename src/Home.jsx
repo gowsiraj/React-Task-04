@@ -13,11 +13,11 @@ function Home() {
     <div className="container-fluid">
       <a className="navbar-brand p-2" href="#" style={{color:"white",fontSize:"30px"}}><FontAwesomeIcon icon={faTv} />
 </a>
-      <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span className="navbar-toggler-icon"></span>
-      </button>
-      <div className="collapse navbar-collapse " id="navbarNav">
-        <ul className="navbar-nav">
+<button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportContent" aria-controls="navbarSupportContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span className="navbar-toggler-icon"></span>
+</button>
+      <div className="collapse navbar-collapse " id="navbarSupportContent">
+        <ul className="navbar-nav me-auto mb-lg-0">
           <li className="nav-item">
             <Link className="nav-link linkstyle" to={"/"} style={{color:"white"}}>ALL</Link>
           </li>
