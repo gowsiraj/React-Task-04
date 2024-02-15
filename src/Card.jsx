@@ -9,10 +9,10 @@ title:PropTypes.string.isRequired,
   command:PropTypes.string.isRequired,
 }).isRequired
 }
-function Card({cardData}) {
+function Card({cardData,index}) {
   return (
     <>
-    <div className="col-sm-12 col-md-4 col-lg-3 col-lg-3 mb-4">
+    <div key={index} className="col-sm-12 col-md-4 col-lg-3 col-lg-3 mb-4">
     <div className="card h-100 cardstyle">
     <img src={cardData.img} className="card-img-top" alt="..."/>
     <div className="card-body ">
